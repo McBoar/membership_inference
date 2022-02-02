@@ -14,4 +14,4 @@ There are 4 different libs for 4 different types of target models:
 
 To use this framework you just need to pull membership_inference/MembershipInferenceTest and import MembershipInferenceTest
 
-You can see tool usage examples in membership_inference/experiments
+You can see some examples of using the tool in membership_inference/experiments
