@@ -1,6 +1,8 @@
 # membership_inference
 This repository provides framework for testing ml-models for vulnerability to membership inference attack
 
+Based on spring-epfl/mia repository.
+
 Supported models:
 - keras neural networks
 - tensorflow neural networks
